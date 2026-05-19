@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"Get-Content 'c:\\\\Users\\\\Dell\\\\Documents\\\\TRABAJO\\\\JuegoMemoriaCSC\\\\index.html' | Select-Object -Index 19\")",
+      "Bash(powershell -Command \"Get-Content 'c:\\\\Users\\\\Dell\\\\Documents\\\\TRABAJO\\\\JuegoMemoriaCSC\\\\index.html' | Select-Object -Index 26\")",
+      "Bash(powershell -Command \"Get-Content 'c:\\\\Users\\\\Dell\\\\Documents\\\\TRABAJO\\\\JuegoMemoriaCSC\\\\index.html' | Select-Object -Index \\(170..185\\)\")"
+    ]
+  }
+}
